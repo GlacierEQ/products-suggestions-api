@@ -1,0 +1,14 @@
+{
+  "products": [
+    {"id": "1", "description": "tags A B C",  "tags": ["A", "B", "C"]},
+    {"id": "2", "description": "tags A B D",  "tags": ["A", "B", "D"]},
+    {"id": "3", "description": "tags E B F",  "tags": ["E", "B", "F"]},
+    {"id": "4", "description": "tags A B G",  "tags": ["A", "B", "G"]},
+    {"id": "5", "description": "tags E B",  "tags": ["E", "B"]},
+    {"id": "6", "description": "tags H I E",  "tags": ["H", "I", "E"]},
+    {"id": "7", "description": "tags L I E",  "tags": ["L", "I", "E"]},
+    {"id": "8", "description": "tags I B Y",  "tags": ["I", "B", "Y"]},
+    {"id": "9", "description": "tags B", "tags": ["B"]},
+    {"id": "10", "description": "tags E B M",  "tags": ["E", "B", "M"]}
+  ]
+}

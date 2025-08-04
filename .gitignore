@@ -1,0 +1,11 @@
+/.bsp/
+target/
+/.idea/
+terraform/solution1/.terraform
+terraform/solution2/.terraform
+terraform/wip/terraform.tfstate
+terraform/wip/.terraform
+/terraform/wip/.terraform.lock.hcl
+/terraform/solution1/.terraform.lock.hcl
+/terraform/wip/terraform.tfstate.backup
+/terraform/wip/.terraform.tfstate.lock.info
